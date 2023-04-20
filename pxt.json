@@ -2,7 +2,8 @@
     "name": "Creating Video games",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "Creating Video games": "github:themrblueshowyt/creating-video-games#ecd11c24fc151601c9d1a98bf132be82a399568e"
     },
     "files": [
         "main.blocks",
